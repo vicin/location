@@ -1,0 +1,8 @@
+<div class="sr-hd">搜索“980”结果</div>
+<div class=sr-mn>
+  <p class=sr-findSta> 
+    <a href=/x_14071bae>980路</a>
+    <a href=/x_1d513758>980快车</a> 
+    <a href=/x_e9c11327>980金山岭旅游专线(跨省)</a> 
+  </p> 
+</div>
